@@ -1,1 +1,1 @@
-initial workspace for activity-logger
+Initial workspace for activity-logger
